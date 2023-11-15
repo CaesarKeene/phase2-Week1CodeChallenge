@@ -1,5 +1,5 @@
-{
-    "transactions": [
+export const transactions = [
+  
       {
         "id": 1,
         "date": "2019-12-01",
@@ -98,6 +98,6 @@
         "amount": "3000",
         "id": 14
       }
-    ]
-   }
+    ];
+   
    
